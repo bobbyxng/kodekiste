@@ -1,0 +1,34 @@
+# SPDX-FileCopyrightText: : 2017-2024 The PyPSA-Eur Authors
+#
+# SPDX-License-Identifier: MIT
+
+name: explore
+channels:
+- conda-forge
+- bioconda
+dependencies:
+- python>=3.12
+- pip
+- atlite
+- pypsa
+- linopy
+- seaborn
+- snakemake-minimal
+- yaml
+- numpy
+- pandas
+- geopandas
+- xarray
+- netcdf4
+- matplotlib
+- geopy
+- ipython
+- cartopy
+- jupyterlab
+- folium
+
+
+- pip:
+  - snakemake-storage-plugin-http
+  - snakemake-executor-plugin-slurm
+  - snakemake-executor-plugin-cluster-generic
