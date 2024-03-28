@@ -1,0 +1,951 @@
+MeasureItem;MeasureItemCategoryID;MeasureItemID;Category;Country;Year;LengthOfCircuits;LengthOfRoutes;NumberOfUnits;ProvidedValue;CreationDate;ProvidedValueCode
+Inventory of Transmission;5;400;ACL_110kV_220kV;AT;2022;10809;6124;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;AT;2022;3735;1911;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;AT;2022;3004;1386;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;AT;2022;8;7;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;AT;2022;54;54;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;AT;2022;;;21;13.9;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;AT;2022;;;21;6.1;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;AT;2022;;;45;9.84;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;AT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;AT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;AT;2022;;;;110 kV cables: length of circuits 808 km, length of routh 748 km;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;AT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;AT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;BA;2022;4037.08;;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;BA;2022;1520.09;;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;BA;2022;865.93;;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;BA;2022;;;7;2800;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;BA;2022;;;6;1800;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;BA;2022;;;14;2100;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;BA;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;BA;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;BA;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;BA;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;BA;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;BE;2022;3223;1934.707;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;BE;2022;448.184;298.907;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;BE;2022;1533.558;939.077;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;BE;2022;162;72;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;BE;2022;41;10;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;BE;2022;49;49;;;08/06/2023;
+Inventory of Transmission;5;409;DCC_Over_380kV;BE;2022;139;139;;;08/06/2023;
+Inventory of Transmission;5;410;Of_PU_>400kV;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;BE;2022;;;10;4.2;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;BE;2022;;;31;16.3407;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;BE;2022;;;4;1.275;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;BE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;BE;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;BE;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;BE;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;BE;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;BG;2022;10164;10164;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;BG;2022;2710;2710;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;BG;2022;3032;3032;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;BG;2022;;;7;2.919;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;BG;2022;;;36;8.576;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;BG;2022;;;16;4.044;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;BG;2022;;;20;4.532;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;BG;2022;;;35;7;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;BG;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;BG;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;BG;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;BG;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;BG;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;CH;2022;65;;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;CH;2022;4878.6;;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;CH;2022;1916.4;;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;CH;2022;40;;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;CH;2022;;;20;6373;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;CH;2022;;;93;8053.6;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;CH;2022;;;23;14416;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;CH;2022;;;11;2390;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;CH;2022;;;147;24001.8;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;CH;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;CH;2022;;;;Note that the provided values are valid as per 01.05.2023. ;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;CH;2022;;;;Note that the provided values are valid as per 01.05.2023. ;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;CH;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;CH;2022;;;;150kV is counted with 110kV_lower. Note that the provided values are valid as per 01.05.2023. ;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;CZ;2022;84;45;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;CZ;2022;1824;1262;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;CZ;2022;3940;3212;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;CZ;2022;;;29;22850;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;CZ;2022;;;14;4000;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;CZ;2022;;;8;5400;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;CZ;2022;;;51;17450;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;CZ;2022;;;20;4000;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;CZ;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;CZ;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;CZ;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;CZ;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;CZ;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;DE;2022;764.63794;1016.34235;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;DE;2022;10759.129;5092.8267;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;DE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;DE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;DE;2022;21904.742;13747.64;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;DE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;DE;2022;329.9;370.96;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;DE;2022;155.2;82.3;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;DE;2022;1285;1325.3;;;08/06/2023;
+Inventory of Transmission;5;409;DCC_Over_380kV;DE;2022;585;300;;;08/06/2023;
+Inventory of Transmission;5;410;Of_PU_>400kV;DE;2022;;;408;144909;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;DE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;DE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;DE;2022;;;184;35821.1;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;DE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;DE;2022;;;20;16686;08/06/2023;
+Inventory of Transmission;5;416;Nw_400kV_220kV;DE;2022;;;152;62157.9;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;DE;2022;;;422;111639;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;DE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;DE;2022;;;14;8804;08/06/2023;
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;DE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;DE;2022;;;266;48246.6;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;DE;2022;200;200;;;08/06/2023;
+Inventory of Transmission;5;424;Comments_1;DE;2022;;;;Amprion: If there is more than one circuit on a line the highest voltage level is used.;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;DE;2022;;;;Amprion: Filtered by cables outside substations;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;DE;2022;;;;Tennet DE: For DCC_Over_380kV full km of Nordlink is reported, which is 50% property of Statnet &TenneT;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;DE;2022;;;;"Amprion: Filtered by status ""in operation"" and owned by Amprion;
+TenneT DE: For Nw_750kV_400kV_lower Nordlink converter only considered on TenneT Side;
+TenneT DE: For Nw_400kV_330kV, Nw_400kV_220kV & Nw_400kV_110kV_lower only land-side converteres are considered for offshore lines.";08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;DK;2022;2796.71;1706.95;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;402;ACL_275kV;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;DK;2022;1369.3;945.88;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;DK;2022;620.85;366.26;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;DK;2022;258.64;230;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;DK;2022;829.78;742.29;;;08/06/2023;
+Inventory of Transmission;5;409;DCC_Over_380kV;DK;2022;313.17;211.8;;;08/06/2023;
+Inventory of Transmission;5;410;Of_PU_>400kV;DK;2022;;;62;18892.2;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;DK;2022;;;13;3530;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;DK;2022;;;3;1450;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;DK;2022;;;44;14901.2;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;DK;2022;;;2;900;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;DK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;DK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;DK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;DK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;DK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;EE;2022;3481;3481;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;402;ACL_275kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;EE;2022;1886;1886;;;08/06/2023;
+Inventory of Transmission;5;404;ACL_380_400kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;405;ACL_750kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;EE;2022;85;85;;;08/06/2023;
+Inventory of Transmission;5;410;Of_PU_>400kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;EE;2022;;;18;3.3;08/06/2023;
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;EE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;422;DCC_110kV_220V;EE;2022;54;54;;;08/06/2023;
+Inventory of Transmission;5;424;Comments_1;EE;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;EE;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;EE;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;EE;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;ES;2022;363.771;343.21;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;ES;2022;19104.559;13628.13;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;ES;2022;21896.29;14186.21;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;ES;2022;543.211;466.31744;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;ES;2022;55.05;22.8;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;ES;2022;549.94;274.97;;;08/06/2023;
+Inventory of Transmission;5;409;DCC_Over_380kV;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;ES;2022;;;157;85.015;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;ES;2022;;;62;7.974;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;ES;2022;;;157;85.015;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;ES;2022;;;62;7.974;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;ES;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;ES;2022;;;;*Estimation of the Length of Routes. Includes RE assets on a national scope.;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;ES;2022;;;;*Estimation of the Length of Routes. Includes RE assets on a national scope.;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;ES;2022;;;;*Estimation of the Length of Routes. Includes RE assets on a national scope.;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;ES;2022;;;;*Includes RE assets on a national scope.;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;FI;2022;16615;15119;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;FI;2022;1061;1061;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;FI;2022;5742;5316;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;FI;2022;271;271;;;08/06/2023;
+Inventory of Transmission;5;410;Of_PU_>400kV;FI;2022;;;69;27050;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;FI;2022;;;13;1960;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;FI;2022;;;7;2000;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;FI;2022;;;62;25050;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;FI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;FI;2022;;;13;1960;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;FI;2022;357;357;;;08/06/2023;
+Inventory of Transmission;5;424;Comments_1;FI;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;FI;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;FI;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;FI;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;FR;2022;861.043;832;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;FR;2022;26323.424;21662;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;FR;2022;22145.926;13603;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;FR;2022;1869.568;0;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;FR;2022;12.207;0;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;FR;2022;117;;;;08/06/2023;
+Inventory of Transmission;5;409;DCC_Over_380kV;FR;2022;392;;;;08/06/2023;
+Inventory of Transmission;5;410;Of_PU_>400kV;FR;2022;;;90;79848;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;FR;2022;;;231;27462;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;FR;2022;;;234;121800;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;FR;2022;;;15;1508;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;FR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;FR;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;FR;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;FR;2022;;;;For value for DCC_220kV_380kV: à répartir entre les lignes 12 et 13;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;FR;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;GR;2022;12834.06;8758.21;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;402;ACL_275kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;GR;2022;4519.6;2838.33;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;GR;2022;1412.67;1412.67;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;GR;2022;31.45;31.45;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;GR;2022;;;21;7106;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;GR;2022;;;197;14027.7;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;GR;2022;;;62;16970;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;GR;2022;;;3;100;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;GR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;GR;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;GR;2022;;;;The figures for ACC_220kV_380kV correspond to 150kV AC cables.;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;GR;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;GR;2022;;;;"The figures for Of_PU_>220kV correspond to 150kV transformers.
+The figures for Nw_220kV_110kV_lower correspond to 150/66kV transformers.";08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;HR;2022;5318.25;4688.26;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;HR;2022;1269.29;1105.29;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;HR;2022;1246.54;1043.35;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;HR;2022;1;1;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;HR;2022;;;5;2000;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;HR;2022;;;8;2400;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;HR;2022;;;23;3500;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;HR;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;HR;2022;;;;"-These values include 110 kV AC cables
+-If they need to be subtracted, the sum of cable LoC/LoR is 98.89 km";08/06/2023;
+Inventory of Transmission;5;425;Comments_2;HR;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;HR;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;HR;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;401;ACL_220kV;HU;2022;1394;1099;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;HU;2022;3021;2322;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;HU;2022;268;268;;;08/06/2023;
+Inventory of Transmission;5;406;ACC_220kV_380kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;HU;2022;;;1;1100;08/06/2023;
+Inventory of Transmission;5;415;Nw_400kV_330kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;HU;2022;;;3;1500;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;HU;2022;;;44;11000;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;HU;2022;;;31;4960;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;HU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;HU;2022;;;;For ACL_750kV: of which 249 km is operating on 400 kV;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;HU;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;HU;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;HU;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;IT;2022;45098;41971;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;IT;2022;10607;8552;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;IT;2022;11191;10010;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;IT;2022;402;402;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;IT;2022;141;141;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;IT;2022;1578;1578;;;08/06/2023;
+Inventory of Transmission;5;410;Of_PU_>400kV;IT;2022;;;217;66897;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;IT;2022;;;188;22257.5;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;IT;2022;;;64;25800;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;IT;2022;;;311;78800;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;IT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;IT;2022;;;145;28550;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;IT;2022;862;542;;;08/06/2023;
+Inventory of Transmission;5;424;Comments_1;IT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;IT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;IT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;IT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;LT;2022;4992;4278;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;402;ACL_275kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;LT;2022;1896;1729;;;08/06/2023;
+Inventory of Transmission;5;404;ACL_380_400kV;LT;2022;102.7;51.35;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;LT;2022;0.3;0.3;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;LT;2022;147.17;147.17;;;08/06/2023;
+Inventory of Transmission;5;409;DCC_Over_380kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;LT;2022;;;3;1800;08/06/2023;
+Inventory of Transmission;5;416;Nw_400kV_220kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;LT;2022;;;23;4650;08/06/2023;
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;422;DCC_110kV_220V;LT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;LT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;LT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;LT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;LT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;401;ACL_220kV;LU;2022;286;148;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;405;ACL_750kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;LU;2022;28;17;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;LU;2022;;;16;2.84;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;LU;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;LU;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;LU;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;LU;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;LU;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;LV;2022;3812.09;3031.81;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;402;ACL_275kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;LV;2022;1742.13;1731.78;;;08/06/2023;
+Inventory of Transmission;5;404;ACL_380_400kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;405;ACL_750kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;LV;2022;22.37;22.37;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;LV;2022;;;271;8.9565;08/06/2023;
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;422;DCC_110kV_220V;LV;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;LV;2022;;;;"110 kV AC lines (3831.09 km of them 83.75 km cable line); 330 kV AC lines (1742.13 km of them 22.37 km cable lines)";08/06/2023;
+Inventory of Transmission;5;425;Comments_2;LV;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;LV;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;LV;2022;;;;"Transformers with highest voltage 330 kV (26 units with total power 3800 MVA); Transformers with highest voltage 110 kV (245 units with total power 5156.5 MVA)";08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;ME;2022;;747.55;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;ME;2022;;372.7;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;ME;2022;;355.3;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;ME;2022;;;6;1850;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;ME;2022;;;11;977.5;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;ME;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;ME;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;ME;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;ME;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;ME;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;MK;2022;;1545;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;402;ACL_275kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;MK;2022;;577;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;MK;2022;;;5;1.5;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;MK;2022;;;73;;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;MK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;MK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;MK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;MK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;MK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;NO;2022;11291.5;11107.7;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;NO;2022;128.6;128.6;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;NO;2022;4108.8;4108.8;;;08/06/2023;
+Inventory of Transmission;5;403;ACL_330kV;NO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;NO;2022;4773;4773;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;NO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;NO;2022;131.7;118.7;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;NO;2022;21.3;21.3;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;NO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;NO;2022;3846;1923.9;;;08/06/2023;
+Inventory of Transmission;5;410;Of_PU_>400kV;NO;2022;;;132;55097;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;NO;2022;;;155;64165;08/06/2023;
+Inventory of Transmission;5;412;Of_PU_>275kV;NO;2022;;;390;130668;08/06/2023;
+Inventory of Transmission;5;413;Of_PU_>220kV;NO;2022;;;425;109793;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;NO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;NO;2022;;;5;3885;08/06/2023;
+Inventory of Transmission;5;416;Nw_400kV_220kV;NO;2022;;;6;5318;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;NO;2022;;;16;3610;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;NO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;NO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;NO;2022;;;67;15034;08/06/2023;
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;NO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;422;DCC_110kV_220V;NO;2022;911.7;657;;;08/06/2023;
+Inventory of Transmission;5;424;Comments_1;NO;2022;;;;We don't have the distance between masts for the lentgh of route but we have removed the parallell lines to make an estimation. The lenght between masts would be shorter.  300 kV lines i represented in 275 kV, and 420 kV in 380-400 kV.;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;NO;2022;;;;Lenght of route is without parallell cables.;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;NO;2022;;;;Lenght of route is without parallell cables.;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;NO;2022;;;;We include the 300 kV transformers in the 275 kV overview because they don't fit in any of the other categories. 330 kV is to high voltage and 275 a bit to low, but they do have tap changers and most of the 275 kV transformers can be used in the 300 kV grid. The transformers reported for 275 kV are between 273 and 315 kV.;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;401;ACL_220kV;PL;2022;7352;6521;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;PL;2022;8227;7250;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;PL;2022;114;114;;;08/06/2023;
+Inventory of Transmission;5;406;ACC_220kV_380kV;PL;2022;1;1;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;PL;2022;127;127;;;08/06/2023;
+Inventory of Transmission;5;410;Of_PU_>400kV;PL;2022;;;35;17.346;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;PL;2022;;;51;13.688;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;PL;2022;;;2;2.502;08/06/2023;
+Inventory of Transmission;5;415;Nw_400kV_330kV;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;PL;2022;;;28;12.99;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;PL;2022;;;68;21.81;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;PL;2022;;;140;24.845;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;PL;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;PL;2022;;;;For ACL_750kV - Part of length in PL line PL-UK. 110kV lines are not a part of transmission system.;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;PL;2022;;;;Underground part of a overhead line;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;PL;2022;;;;For DCC_Over_380kV: A half of total length of PL-SE cable;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;PL;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;PT;2022;2500.7;1707.6;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;PT;2022;3848.3;2604.7;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;PT;2022;3075.1;2961.8;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;PT;2022;;;31;7480;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;PT;2022;;;72;5570;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;PT;2022;;;17;7650;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;PT;2022;;;16;6440;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;PT;2022;;;5;830;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;PT;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;PT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;PT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;PT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;PT;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;RO;2022;42.84308;40.418;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;RO;2022;4701.2095;3875.844;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;RO;2022;5242.6035;4984.594;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;RO;2022;3.1377318;3.108;;;08/06/2023;
+Inventory of Transmission;5;406;ACC_220kV_380kV;RO;2022;0.3;0.3;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;RO;2022;;;19;7405;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;RO;2022;;;23;4026;08/06/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;RO;2022;;;23;9500;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;RO;2022;;;32;8000;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;RO;2022;;;90;18100;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;RO;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;RO;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;RO;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;RO;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;RO;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;SE;2022;3599;3599;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;402;ACL_275kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;SE;2022;11010;11010;;;08/06/2023;
+Inventory of Transmission;5;404;ACL_380_400kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;405;ACL_750kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;SE;2022;19;19;;;08/06/2023;
+Inventory of Transmission;5;407;ACC_Over_380kV;SE;2022;6;6;;;08/06/2023;
+Inventory of Transmission;5;408;DCC_220kV_380kV;SE;2022;507;507;;;08/06/2023;
+Inventory of Transmission;5;409;DCC_Over_380kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;SE;2022;;;3;770;08/06/2023;
+Inventory of Transmission;5;416;Nw_400kV_220kV;SE;2022;;;34;19530;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;SE;2022;;;1;200;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;SE;2022;;;3;1100;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;SE;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;SE;2022;;;;Only route line are given as the formal method to define circuit KM is under development for the next delivery, but it is expected route KM and circuit KM should not differ by any large quantity;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;SE;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;SE;2022;;;;HVDC lines neighboring lines are not included in DCC kilometres, these are instead given in the cross border lines table. ;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;SE;2022;;;;Only lines and transformers within operation of Svenska Kraftnät is included in this. The vast majority of power transformers in Sweden are opearated by generating or distributing parties and not the TSO in Sweden. TSO may have power transformers for use within the transmission network, for example between 400 and 220kV conversion.;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;SI;2022;1957.8;1354.4;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;SI;2022;328.1;299.4;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;SI;2022;828;576.5;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;SI;2022;;;2;1.2;08/06/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;SI;2022;;;2;0.8;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;SI;2022;;;13;3.75;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;SI;2022;;;8;1.2;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;SI;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;SI;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;SI;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;SI;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;SI;2022;;;;"The PST transformer is included in the cell line Of_PU_>400kV
+Transformer 400/51,5 kV for STATCOM is included in the cell line Nw_400kV_110kV_lower.";08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;SK;2022;79.802;40.028;;;08/06/2023;
+Inventory of Transmission;5;401;ACL_220kV;SK;2022;688.456;548.268;;;08/06/2023;
+Inventory of Transmission;5;402;ACL_275kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;SK;2022;2356.605;1865.069;;;08/06/2023;
+Inventory of Transmission;5;405;ACL_750kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;SK;2022;;;3;1400;08/06/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;SK;2022;;;31;9230;08/06/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;SK;2022;;;6;1200;08/06/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;SK;2022;;;;;08/06/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;SK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;425;Comments_2;SK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;426;Comments_3;SK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;427;Comments_4;SK;2022;;;;;08/06/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;RS;2021;6057.065;5525.1724;;;28/03/2023;
+Inventory of Transmission;5;401;ACL_220kV;RS;2021;1752.6982;1701.1482;;;28/03/2023;
+Inventory of Transmission;5;402;ACL_275kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;RS;2021;1811.912;1716.3738;;;28/03/2023;
+Inventory of Transmission;5;405;ACL_750kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;RS;2021;;;11;;28/03/2023;
+Inventory of Transmission;5;411;Of_PU_>330kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;RS;2021;;;18;;28/03/2023;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;RS;2021;;;9;;28/03/2023;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;RS;2021;;;22;;28/03/2023;
+Inventory of Transmission;5;418;Nw_330kV_220kV;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;RS;2021;;;27;;28/03/2023;
+Inventory of Transmission;5;422;DCC_110kV_220V;RS;2021;;;;;28/03/2023;Not Expected
+Inventory of Transmission;5;424;Comments_1;RS;2021;;;;;28/03/2023;
+Inventory of Transmission;5;425;Comments_2;RS;2021;;;;;28/03/2023;
+Inventory of Transmission;5;426;Comments_3;RS;2021;;;;;28/03/2023;
+Inventory of Transmission;5;427;Comments_4;RS;2021;;;;;28/03/2023;
+Inventory of Transmission;5;400;ACL_110kV_220kV;AL;2018;1640;1640;;;25/03/2019;
+Inventory of Transmission;5;401;ACL_220kV;AL;2018;1250;1250;;;25/03/2019;
+Inventory of Transmission;5;402;ACL_275kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;AL;2018;445.7;445.7;;;25/03/2019;
+Inventory of Transmission;5;405;ACL_750kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;408;DCC_220kV_380kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;AL;2018;;;16;1778;25/03/2019;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;AL;2018;;;4;1200;25/03/2019;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;AL;2018;;;2;300;25/03/2019;
+Inventory of Transmission;5;418;Nw_330kV_220kV;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;AL;2018;;;25;2486;25/03/2019;
+Inventory of Transmission;5;422;DCC_110kV_220V;AL;2018;;;;;25/03/2019;Not Expected
+Inventory of Transmission;5;424;Comments_1;AL;2018;;;;;25/03/2019;
+Inventory of Transmission;5;425;Comments_2;AL;2018;;;;;25/03/2019;
+Inventory of Transmission;5;426;Comments_3;AL;2018;;;;;25/03/2019;
+Inventory of Transmission;5;427;Comments_4;AL;2018;;;;;25/03/2019;
+Inventory of Transmission;5;400;ACL_110kV_220kV;CY;2018;820;410;;;22/03/2019;
+Inventory of Transmission;5;401;ACL_220kV;CY;2018;88;44;;;22/03/2019;
+Inventory of Transmission;5;402;ACL_275kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;405;ACL_750kV;CY;2018;;;;;22/03/2019;Not Available
+Inventory of Transmission;5;406;ACC_220kV_380kV;CY;2018;;;;;22/03/2019;Not Available
+Inventory of Transmission;5;407;ACC_Over_380kV;CY;2018;;;;;22/03/2019;Not Available
+Inventory of Transmission;5;408;DCC_220kV_380kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;CY;2018;;;;;22/03/2019;Not Expected
+Inventory of Transmission;5;422;DCC_110kV_220V;CY;2018;;;;;22/03/2019;Not Available
+Inventory of Transmission;5;424;Comments_1;CY;2018;;;;66kV power lines exist in the transmission network that do not fall in the above categories. Also 220kV Transmission Lines are operated at 132kV.;22/03/2019;
+Inventory of Transmission;5;425;Comments_2;CY;2018;;;;132kV aand 66kV ac cables exist in the transmission network that do not fall in the above categories.;22/03/2019;
+Inventory of Transmission;5;426;Comments_3;CY;2018;;;;;22/03/2019;
+Inventory of Transmission;5;427;Comments_4;CY;2018;;;;Power Transformers 15.75/132kV, 11/132kV, 11/66kV, Step Down Network Transformers 132/11kV, 132/6,6kV, 132/3,3kV, 66/3.3kV and interbus transformers 132/66kV exist in the transmission network that do not fall in the above categories.;22/03/2019;
+Inventory of Transmission;5;400;ACL_110kV_220kV;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;401;ACL_220kV;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;402;ACL_275kV;GB;2018;7778;0;;;04/04/2019;
+Inventory of Transmission;5;403;ACL_330kV;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;GB;2018;12607;0;;;04/04/2019;
+Inventory of Transmission;5;405;ACL_750kV;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;GB;2018;839;0;;;04/04/2019;
+Inventory of Transmission;5;407;ACC_Over_380kV;GB;2018;296;0;;;04/04/2019;
+Inventory of Transmission;5;408;DCC_220kV_380kV;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;GB;2018;327;0;;;04/04/2019;
+Inventory of Transmission;5;410;Of_PU_>400kV;GB;2018;;;343;80.07;04/04/2019;
+Inventory of Transmission;5;411;Of_PU_>330kV;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;GB;2018;;;537;99.71;04/04/2019;
+Inventory of Transmission;5;413;Of_PU_>220kV;GB;2018;;;60;126.39;04/04/2019;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;GB;2018;;;124;97.94;04/04/2019;
+Inventory of Transmission;5;416;Nw_400kV_220kV;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;422;DCC_110kV_220V;GB;2018;;;;;04/04/2019;Not Expected
+Inventory of Transmission;5;424;Comments_1;GB;2018;;;;;04/04/2019;
+Inventory of Transmission;5;425;Comments_2;GB;2018;;;;;04/04/2019;
+Inventory of Transmission;5;426;Comments_3;GB;2018;;;;;04/04/2019;
+Inventory of Transmission;5;427;Comments_4;GB;2018;;;;;04/04/2019;
+Inventory of Transmission;5;400;ACL_110kV_220kV;IE;2018;4383.1;4207.8;;;08/04/2019;
+Inventory of Transmission;5;401;ACL_220kV;IE;2018;1932.6;1835.2;;;08/04/2019;
+Inventory of Transmission;5;402;ACL_275kV;IE;2018;97.04;48.52;;;08/04/2019;
+Inventory of Transmission;5;403;ACL_330kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;IE;2018;439.1;439.1;;;08/04/2019;
+Inventory of Transmission;5;405;ACL_750kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;407;ACC_Over_380kV;IE;2018;1.5;1.5;;;08/04/2019;
+Inventory of Transmission;5;408;DCC_220kV_380kV;IE;2018;263;263;;;08/04/2019;
+Inventory of Transmission;5;409;DCC_Over_380kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;416;Nw_400kV_220kV;IE;2018;;;8;4050;08/04/2019;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;IE;2018;;;3;1.20E+03;08/04/2019;
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;IE;2018;;;54;10734;08/04/2019;
+Inventory of Transmission;5;422;DCC_110kV_220V;IE;2018;;;;;08/04/2019;Not Expected
+Inventory of Transmission;5;424;Comments_1;IE;2018;;;;;08/04/2019;
+Inventory of Transmission;5;425;Comments_2;IE;2018;;;;;08/04/2019;
+Inventory of Transmission;5;426;Comments_3;IE;2018;;;;;08/04/2019;
+Inventory of Transmission;5;427;Comments_4;IE;2018;;;;;08/04/2019;
+Inventory of Transmission;5;400;ACL_110kV_220kV;IS;2018;1336.1;1336.1;;;08/04/2019;
+Inventory of Transmission;5;401;ACL_220kV;IS;2018;917.9;902.3;;;08/04/2019;
+Inventory of Transmission;5;402;ACL_275kV;IS;2018;0;0;;;08/04/2019;
+Inventory of Transmission;5;403;ACL_330kV;IS;2018;0;0;;;08/04/2019;
+Inventory of Transmission;5;404;ACL_380_400kV;IS;2018;0;0;;;08/04/2019;
+Inventory of Transmission;5;405;ACL_750kV;IS;2018;0;0;;;08/04/2019;
+Inventory of Transmission;5;406;ACC_220kV_380kV;IS;2018;0;0;;;08/04/2019;
+Inventory of Transmission;5;407;ACC_Over_380kV;IS;2018;0;0;;;08/04/2019;
+Inventory of Transmission;5;408;DCC_220kV_380kV;IS;2018;0;0;;;08/04/2019;
+Inventory of Transmission;5;409;DCC_Over_380kV;IS;2018;0;0;;;08/04/2019;
+Inventory of Transmission;5;410;Of_PU_>400kV;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;411;Of_PU_>330kV;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;412;Of_PU_>275kV;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;413;Of_PU_>220kV;IS;2018;;;31;2230;08/04/2019;
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;415;Nw_400kV_330kV;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;416;Nw_400kV_220kV;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;418;Nw_330kV_220kV;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;IS;2018;;;0;0;08/04/2019;
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;IS;2018;;;15;1289;08/04/2019;
+Inventory of Transmission;5;422;DCC_110kV_220V;IS;2018;0;0;;;08/04/2019;
+Inventory of Transmission;5;424;Comments_1;IS;2018;;;;;08/04/2019;
+Inventory of Transmission;5;425;Comments_2;IS;2018;;;;;08/04/2019;
+Inventory of Transmission;5;426;Comments_3;IS;2018;;;;;08/04/2019;
+Inventory of Transmission;5;427;Comments_4;IS;2018;;;;;08/04/2019;
+Inventory of Transmission;5;400;ACL_110kV_220kV;TR;2018;44369.34;34252.6;;;12/06/2019;
+Inventory of Transmission;5;401;ACL_220kV;TR;2018;84.82;84.82;;;12/06/2019;
+Inventory of Transmission;5;402;ACL_275kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;403;ACL_330kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;404;ACL_380_400kV;TR;2018;23159.16;21636.03;;;12/06/2019;
+Inventory of Transmission;5;405;ACL_750kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;406;ACC_220kV_380kV;TR;2018;391.12;160;;;12/06/2019;
+Inventory of Transmission;5;407;ACC_Over_380kV;TR;2018;89.68;89.68;;;12/06/2019;
+Inventory of Transmission;5;408;DCC_220kV_380kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;409;DCC_Over_380kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;410;Of_PU_>400kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;411;Of_PU_>330kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;412;Of_PU_>275kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;413;Of_PU_>220kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;414;Nw_750kV_400kV_lower;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;415;Nw_400kV_330kV;TR;2018;;;353;70652.16;12/06/2019;
+Inventory of Transmission;5;416;Nw_400kV_220kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;417;Nw_400kV_110kV_lower;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;418;Nw_330kV_220kV;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;419;Nw_330kV_110kV_lower;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;420;Nw_275kV_110kV_lower;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;421;Nw_220kV_110kV_lower;TR;2018;;;1432;100685.44;12/06/2019;
+Inventory of Transmission;5;422;DCC_110kV_220V;TR;2018;;;;;12/06/2019;Not Expected
+Inventory of Transmission;5;424;Comments_1;TR;2018;;;;;12/06/2019;
+Inventory of Transmission;5;425;Comments_2;TR;2018;;;;;12/06/2019;
+Inventory of Transmission;5;426;Comments_3;TR;2018;;;;;12/06/2019;
+Inventory of Transmission;5;427;Comments_4;TR;2018;;;;;12/06/2019;
