@@ -93,26 +93,23 @@ buses_osm = gpd.GeoDataFrame(
     crs = "EPSG:4326"
     )
 
-busmap_gridkit_nuts2 = create_busmap(buses_gridkit, gdf_regions_nuts2)
-busmap_osm_nuts2 = create_busmap(buses_osm, gdf_regions_nuts2)
-nbuses_gridkit_nuts2 = len(busmap_gridkit_nuts2["busmap"].unique()) 
-nbuses_osm_nuts2 = len(busmap_osm_nuts2["busmap"].unique())
+busmap_gridkit_nuts = create_busmap(buses_gridkit, gdf_regions_nuts)
+busmap_osm_nuts = create_busmap(buses_osm, gdf_regions_nuts)
+nbuses_gridkit_nuts = len(busmap_gridkit_nuts["busmap"].unique()) 
+nbuses_osm_nuts = len(busmap_osm_nuts["busmap"].unique())
 
 # common buses
-common_buses_nuts2 = pd.Series(list(set(busmap_gridkit_nuts2["busmap"]).intersection(set(busmap_osm_nuts2["busmap"]))))
-len(common_buses_nuts2)
+common_buses_nuts = pd.Series(list(set(busmap_gridkit_nuts["busmap"]).intersection(set(busmap_osm_nuts["busmap"]))))
+len(common_buses_nuts)
 
-busmap_gridkit_common_nuts2 = create_common_busmap(busmap_gridkit_nuts2, common_buses_nuts2, gdf_regions_nuts2)
-busmap_osm_common_nuts2 = create_common_busmap(busmap_osm_nuts2, common_buses_nuts2, gdf_regions_nuts2)
-set_diff = set(busmap_osm_common_nuts2["busmap"]) - set(busmap_gridkit_common_nuts2["busmap"])
+busmap_gridkit_common_nuts = create_common_busmap(busmap_gridkit_nuts, common_buses_nuts, gdf_regions_nuts)
+busmap_osm_common_nuts = create_common_busmap(busmap_osm_nuts, common_buses_nuts, gdf_regions_nuts)
+set_diff = set(busmap_osm_common_nuts["busmap"]) - set(busmap_gridkit_common_nuts["busmap"])
 print(f"After: {set_diff}")
 len(set_diff)
 
-# export buses_gridkit to csv
-gdf_regions_nuts2.to_file(f"busmaps/{str.lower(nuts)}_regions.geojson", driver="GeoJSON")
-busmap_gridkit_common_nuts2[["busmap"]] \
-    .to_csv(f"busmaps/gridkit/custom_busmap_elec_s_{len(busmap_gridkit_common_nuts2.busmap.unique())}_entsoegridkit.csv")
+busmap_gridkit_common_nuts[["busmap"]] \
+    .to_csv(f"busmaps/gridkit/custom_busmap_elec_s_{len(busmap_gridkit_common_nuts.busmap.unique())}_entsoegridkit.csv")
 
-busmap_osm_common_nuts2[["busmap"]] \
-    .to_csv(f"busmaps/osm/custom_busmap_elec_s_{len(busmap_osm_common_nuts2.busmap.unique())}_osm-prebuilt.csv")
-
+busmap_osm_common_nuts[["busmap"]] \
+    .to_csv(f"busmaps/osm/custom_busmap_elec_s_{len(busmap_osm_common_nuts.busmap.unique())}_osm-prebuilt.csv")
